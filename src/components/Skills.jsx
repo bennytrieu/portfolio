@@ -27,8 +27,8 @@ const Skills = () => {
 
                 <div className='flex flex-col items-start justify-center gap-2'>
                     <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-blue-500 to-indigo-500'>React</div>
-                    {/* <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-emerald-500 to-green-500'>NodeJs</div>
-                    <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-blue-400 to-sky-500'>Tailwind CSS</div> */}
+                    <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-emerald-500 to-cyan-500'>VR/AR</div>
+                    {/* <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-blue-400 to-sky-500'>Tailwind CSS</div> */}
                 </div>
 
             </div>

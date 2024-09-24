@@ -4,7 +4,7 @@ const Contact = () => {
     return (
         <div className='flex flex-col items-center justify-center ga-3 space-y-6 p-16' id="contact">
             <h1 className='font-bold text-4xl sm:text-5xl md:text-6xl text-center'>
-                <span className='bg-gradient-to-r from-purple-500 to to-blue-500 bg-clip-text text-transparent'>
+                <span>
                     Contact info
                 </span>
             </h1>
