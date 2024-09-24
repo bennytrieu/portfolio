@@ -67,7 +67,7 @@ const Projects = () => {
                         <div className="flex gap-3 text-xs">
                             <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-red-500 to-orange-500'>HTML</div>
                             <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-sky-500 to-blue-500'>CSS</div>
-                            <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-yellow-500 to-yellow-300'>Javascipt</div>
+                            <div className='py-2 px-5 border-none text-black font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-yellow-500 to-yellow-300'>Javascipt</div>
                         </div>
                     </div>
 
@@ -94,7 +94,7 @@ const Projects = () => {
                         <div className="flex gap-3 text-xs">
                             <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-red-500 to-orange-500'>HTML</div>
                             <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-sky-500 to-blue-500'>CSS</div>
-                            <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-yellow-500 to-yellow-300'>Javascipt</div>
+                            <div className='py-2 px-5 border-none text-black font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-yellow-500 to-yellow-300'>Javascipt</div>
                         </div>
 
                         <div className="flex gap-3 text-xs">

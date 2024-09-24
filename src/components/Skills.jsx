@@ -22,7 +22,7 @@ const Skills = () => {
                 <div className='flex flex-col items-start justify-center gap-2'>
                     <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-red-500 to-orange-500'>HTML</div>
                     <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-sky-500 to-blue-500'>CSS</div>
-                    <div className='py-2 px-5 border-none text-white font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-yellow-500 to-yellow-300'>Javascipt</div>
+                    <div className='py-2 px-5 border-none text-black font-semibold rounded-xl hover:opacity-75 bg-gradient-to-r from-yellow-500 to-yellow-300'>Javascipt</div>
                 </div>
 
                 <div className='flex flex-col items-start justify-center gap-2'>
