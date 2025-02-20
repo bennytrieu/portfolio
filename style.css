@@ -1,0 +1,27 @@
+custom-border {
+  border: 5rem solid #ff5733;
+  padding: 0;
+}
+
+.card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-body {
+  flex-grow: 1; /* Makes all cards expand equally */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card img {
+  width: 100%;
+  height: 200px; /* Adjust as needed */
+  object-fit: cover; /* Ensures the image covers the entire area */
+}
+
+h1 {
+  color: red;
+}
