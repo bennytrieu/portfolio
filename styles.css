@@ -25,3 +25,20 @@ custom-border {
 h1 {
   color: red;
 }
+
+.card-img-wrapper {
+  height: 200px; /* Set a fixed height */
+  overflow: hidden; /* Hide overflow */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-img-wrapper img {
+  width: 100%; /* Ensure it covers the width */
+  height: auto; /* Maintain aspect ratio */
+  transform: translateY(-30px);
+}
+
+.card-zoomout img {
+  object-fit: contain;
+}
